@@ -16,3 +16,4 @@ description: 'Octofit 다중 계층 애플리케이션용 MongoDB 구성 및 oct
    `Seed the octofit_db database with test data`.
 6. 모든 컬렉션에 현실적인 샘플 데이터를 삽입하세요.
 7. API 라우트 응답으로 데이터 생성을 확인하세요.
+# 안녕하세요.
